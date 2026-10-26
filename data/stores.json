@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BBW-001",
+    "name": "Sacramento - Arden",
+    "city": "Sacramento",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:48:12-07:00"
+  },
+  {
+    "id": "BBW-002",
+    "name": "West Sacramento",
+    "city": "West Sacramento",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:52:33-07:00"
+  },
+  {
+    "id": "BBW-003",
+    "name": "Rancho Cordova",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:49:52-07:00"
+  },
+  {
+    "id": "BBW-004",
+    "name": "Rocklin",
+    "city": "Rocklin",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:58:10-07:00"
+  },
+  {
+    "id": "BBW-005",
+    "name": "Auburn",
+    "city": "Auburn",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:41:55-07:00"
+  },
+  {
+    "id": "BBW-006",
+    "name": "Grass Valley",
+    "city": "Grass Valley",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:42:08-07:00"
+  },
+  {
+    "id": "BBW-007",
+    "name": "Woodland",
+    "city": "Woodland",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:48:08-07:00"
+  },
+  {
+    "id": "BBW-008",
+    "name": "Yuba City",
+    "city": "Yuba City",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:50:40-07:00"
+  },
+  {
+    "id": "BBW-009",
+    "name": "Chico",
+    "city": "Chico",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-26T07:46:13-07:00"
+  },
+  {
+    "id": "BBW-010",
+    "name": "Placerville",
+    "city": "Placerville",
+    "state": "CA",
+    "channel": "retail",
+    "last_pos_sync_at": "2026-10-24T18:16:21-07:00"
+  }
+]

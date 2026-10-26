@@ -1,0 +1,49 @@
+{
+  "boots": {
+    "model": "catalog-advisor-fixture-2026.10",
+    "request_id": "llm-fixture-0004",
+    "message": "A contractor is after waterproof safety-toe boots near Rocklin.",
+    "suggested_skus": [
+      "BBW-BT-102",
+      "BBW-BT-103",
+      "BBW-BT-104",
+      "BBW-BT-106",
+      "FAKE-BT-999"
+    ],
+    "notes": "Provider output is untrusted, may contain unavailable or nonexistent SKUs."
+  },
+  "hi-vis": {
+    "model": "catalog-advisor-fixture-2026.10",
+    "request_id": "llm-fixture-0012",
+    "message": "A crew needs high-visibility items for a roadway job.",
+    "suggested_skus": [
+      "BBW-HV-201",
+      "BBW-HV-203",
+      "BBW-HV-202",
+      "UNKNOWN-SKU"
+    ],
+    "notes": "Provider output is untrusted."
+  },
+  "uniforms": {
+    "model": "catalog-advisor-fixture-2026.10",
+    "request_id": "llm-fixture-0020",
+    "message": "Shop tech uniform shirts.",
+    "suggested_skus": [
+      "BBW-UN-501",
+      "BBW-UN-502",
+      "BBW-UN-504"
+    ],
+    "notes": "Provider output is untrusted."
+  },
+  "default": {
+    "model": "catalog-advisor-fixture-2026.10",
+    "request_id": "llm-fixture-0099",
+    "message": "Work gear recommendation fallback.",
+    "suggested_skus": [
+      "BBW-AC-701",
+      "BBW-OW-402",
+      "NOT-IN-CATALOG"
+    ],
+    "notes": "Provider output is untrusted."
+  }
+}

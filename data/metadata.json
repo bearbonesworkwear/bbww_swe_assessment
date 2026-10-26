@@ -1,0 +1,13 @@
+{
+  "fixture_as_of": "2026-10-26T08:30:00-07:00",
+  "region": "Northern California",
+  "snapshot": "2026-10-26T08:30:00-07:00",
+  "all_synthetic": true,
+  "source_systems": [
+    "retail_pos_v3",
+    "web_orders_v2",
+    "vendor_feed_sftp",
+    "merch_pim_v2",
+    "catalog_advisor_fixture"
+  ]
+}

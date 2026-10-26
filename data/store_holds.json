@@ -1,0 +1,308 @@
+[
+  {
+    "hold_id": "H-10423",
+    "store_id": "BBW-004",
+    "sku": "BBW-BT-103",
+    "qty": 2,
+    "status": "active",
+    "reason": "in-store pickup pending",
+    "expires_at": "2026-10-26T13:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10424",
+    "store_id": "BBW-004",
+    "sku": "BBW-BT-103",
+    "qty": 3,
+    "status": "released",
+    "reason": "cart abandoned",
+    "expires_at": "2026-10-25T14:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10425",
+    "store_id": "BBW-004",
+    "sku": "BBW-HV-201",
+    "qty": 2,
+    "status": "active",
+    "reason": "corporate voucher pickup",
+    "expires_at": "2026-10-26T16:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10426",
+    "store_id": "BBW-001",
+    "sku": "BBW-UN-502",
+    "qty": 1,
+    "status": "active",
+    "reason": "embroidery pickup",
+    "expires_at": "2026-10-26T17:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10500",
+    "store_id": "BBW-008",
+    "sku": "BBW-BT-108",
+    "qty": 1,
+    "status": "released",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10501",
+    "store_id": "BBW-009",
+    "sku": "BBW-HV-206",
+    "qty": 1,
+    "status": "released",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10502",
+    "store_id": "BBW-003",
+    "sku": "BBW-HV-204",
+    "qty": 2,
+    "status": "expired",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10503",
+    "store_id": "BBW-002",
+    "sku": "BBW-PN-301",
+    "qty": 1,
+    "status": "expired",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10504",
+    "store_id": "BBW-002",
+    "sku": "BBW-BT-103",
+    "qty": 1,
+    "status": "released",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10505",
+    "store_id": "BBW-004",
+    "sku": "BBW-BT-102",
+    "qty": 2,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10506",
+    "store_id": "BBW-009",
+    "sku": "BBW-UN-502",
+    "qty": 2,
+    "status": "expired",
+    "reason": "pickup window",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10507",
+    "store_id": "BBW-005",
+    "sku": "BBW-PN-302",
+    "qty": 1,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10508",
+    "store_id": "BBW-008",
+    "sku": "BBW-OW-402",
+    "qty": 2,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10509",
+    "store_id": "BBW-003",
+    "sku": "BBW-HV-205",
+    "qty": 1,
+    "status": "expired",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10510",
+    "store_id": "BBW-002",
+    "sku": "BBW-BT-101",
+    "qty": 2,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10511",
+    "store_id": "BBW-010",
+    "sku": "BBW-BT-106",
+    "qty": 1,
+    "status": "expired",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10512",
+    "store_id": "BBW-003",
+    "sku": "BBW-OW-402",
+    "qty": 1,
+    "status": "released",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10513",
+    "store_id": "BBW-006",
+    "sku": "BBW-BT-106",
+    "qty": 1,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10514",
+    "store_id": "BBW-009",
+    "sku": "BBW-BT-105",
+    "qty": 2,
+    "status": "expired",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10515",
+    "store_id": "BBW-002",
+    "sku": "BBW-UN-504",
+    "qty": 2,
+    "status": "released",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10516",
+    "store_id": "BBW-009",
+    "sku": "BBW-HV-205",
+    "qty": 1,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10517",
+    "store_id": "BBW-001",
+    "sku": "BBW-OW-401",
+    "qty": 2,
+    "status": "expired",
+    "reason": "pickup window",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10518",
+    "store_id": "BBW-001",
+    "sku": "BBW-BT-104",
+    "qty": 2,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10519",
+    "store_id": "BBW-002",
+    "sku": "BBW-AC-702",
+    "qty": 1,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10520",
+    "store_id": "BBW-008",
+    "sku": "BBW-HV-201",
+    "qty": 1,
+    "status": "active",
+    "reason": "pickup window",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10521",
+    "store_id": "BBW-001",
+    "sku": "BBW-PN-303",
+    "qty": 1,
+    "status": "released",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10522",
+    "store_id": "BBW-009",
+    "sku": "BBW-BT-101",
+    "qty": 2,
+    "status": "expired",
+    "reason": "pickup window",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10523",
+    "store_id": "BBW-003",
+    "sku": "BBW-BT-106",
+    "qty": 2,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10524",
+    "store_id": "BBW-004",
+    "sku": "BBW-BT-103",
+    "qty": 2,
+    "status": "released",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10525",
+    "store_id": "BBW-007",
+    "sku": "BBW-HV-205",
+    "qty": 1,
+    "status": "active",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10526",
+    "store_id": "BBW-010",
+    "sku": "BBW-AC-702",
+    "qty": 1,
+    "status": "expired",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10527",
+    "store_id": "BBW-001",
+    "sku": "BBW-GL-603",
+    "qty": 2,
+    "status": "expired",
+    "reason": "transfer staging",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10528",
+    "store_id": "BBW-005",
+    "sku": "BBW-AC-702",
+    "qty": 1,
+    "status": "expired",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  },
+  {
+    "hold_id": "H-10529",
+    "store_id": "BBW-005",
+    "sku": "BBW-AC-702",
+    "qty": 2,
+    "status": "expired",
+    "reason": "customer hold",
+    "expires_at": "2026-10-27T12:00:00-07:00"
+  }
+]

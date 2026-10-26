@@ -1,0 +1,596 @@
+[
+  {
+    "sku": "BBW-BT-101",
+    "brand": "Timberland PRO",
+    "name": "Ridgeway 6in Composite Toe Boot",
+    "category": "footwear",
+    "price_usd": 159.99,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "work",
+      "safety-toe",
+      "composite-toe",
+      "slip-resistant"
+    ],
+    "size": "M",
+    "color": "brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-102",
+    "brand": "Irish Setter",
+    "name": "Quarry Bend Waterproof Safety Toe Boot",
+    "category": "footwear",
+    "price_usd": 179.95,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "waterproof",
+      "safety-toe",
+      "steel-toe",
+      "work"
+    ],
+    "size": "M",
+    "color": "brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-103",
+    "brand": "Wolverine",
+    "name": "ForcePoint Waterproof Composite Toe",
+    "category": "footwear",
+    "price_usd": 149.95,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "waterproof",
+      "safety-toe",
+      "composite-toe",
+      "work"
+    ],
+    "size": "M",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-104",
+    "brand": "KEEN Utility",
+    "name": "Mesa Trail Waterproof Work Boot",
+    "category": "footwear",
+    "price_usd": 164.0,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "waterproof",
+      "safety-toe",
+      "wide-fit"
+    ],
+    "size": "M",
+    "color": "grey",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-105",
+    "brand": "Ariat",
+    "name": "WorkHog Pull-On Safety Toe",
+    "category": "footwear",
+    "price_usd": 189.0,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "safety-toe",
+      "pull-on",
+      "work"
+    ],
+    "size": "M",
+    "color": "dark brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-106",
+    "brand": "Georgia Boot",
+    "name": "Creekside Soft Toe Leather Boot",
+    "category": "footwear",
+    "price_usd": 114.95,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "soft-toe",
+      "slip-resistant"
+    ],
+    "size": "M",
+    "color": "brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-107",
+    "brand": "Timberland PRO",
+    "name": "Marshline Waterproof Soft Toe",
+    "category": "footwear",
+    "price_usd": 139.0,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "waterproof",
+      "soft-toe",
+      "work"
+    ],
+    "size": "M",
+    "color": "wheat",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-BT-108",
+    "brand": "Wolverine",
+    "name": "Trailguard Steel Toe Work Boot",
+    "category": "footwear",
+    "price_usd": 129.99,
+    "currency": "USD",
+    "tags": [
+      "boot",
+      "safety-toe",
+      "steel-toe",
+      "work"
+    ],
+    "size": "M",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-201",
+    "brand": "Radians",
+    "name": "Class 2 Hi-Vis Mesh Safety Vest",
+    "category": "safety",
+    "price_usd": 18.95,
+    "currency": "USD",
+    "tags": [
+      "hi-vis",
+      "high-visibility",
+      "vest",
+      "class-2",
+      "reflective"
+    ],
+    "size": "L",
+    "color": "lime",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-202",
+    "brand": "Pyramex",
+    "name": "Class 3 High-Visibility Rain Jacket",
+    "category": "safety",
+    "price_usd": 76.5,
+    "currency": "USD",
+    "tags": [
+      "hi-vis",
+      "waterproof",
+      "rain",
+      "jacket",
+      "class-3"
+    ],
+    "size": "XL",
+    "color": "yellow",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-203",
+    "brand": "Radians",
+    "name": "Hi-Vis Long Sleeve Tee",
+    "category": "apparel",
+    "price_usd": 27.95,
+    "currency": "USD",
+    "tags": [
+      "hi-vis",
+      "high-visibility",
+      "shirt",
+      "reflective"
+    ],
+    "size": "XL",
+    "color": "orange",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-204",
+    "brand": "Ergodyne",
+    "name": "Reflective Zipper Hoodie",
+    "category": "apparel",
+    "price_usd": 62.0,
+    "currency": "USD",
+    "tags": [
+      "hi-vis",
+      "hoodie",
+      "reflective"
+    ],
+    "size": "L",
+    "color": "lime",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-205",
+    "brand": "Pyramex",
+    "name": "Full Brim Safety Hard Hat",
+    "category": "safety",
+    "price_usd": 24.95,
+    "currency": "USD",
+    "tags": [
+      "hard-hat",
+      "ppe",
+      "head-protection"
+    ],
+    "size": "OS",
+    "color": "white",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-HV-206",
+    "brand": "Radians",
+    "name": "Anti-Fog Wraparound Safety Glasses",
+    "category": "safety",
+    "price_usd": 13.25,
+    "currency": "USD",
+    "tags": [
+      "ppe",
+      "eye-protection",
+      "glasses"
+    ],
+    "size": "OS",
+    "color": "clear",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-PN-301",
+    "brand": "Carhartt",
+    "name": "Duck Canvas Double Front Work Pant",
+    "category": "bottoms",
+    "price_usd": 69.99,
+    "currency": "USD",
+    "tags": [
+      "pants",
+      "durable",
+      "canvas",
+      "construction"
+    ],
+    "size": "34x32",
+    "color": "carhartt brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-PN-302",
+    "brand": "Wrangler RIGGS",
+    "name": "Ripstop Utility Cargo Pant",
+    "category": "bottoms",
+    "price_usd": 54.99,
+    "currency": "USD",
+    "tags": [
+      "pants",
+      "ripstop",
+      "cargo",
+      "work"
+    ],
+    "size": "36x32",
+    "color": "navy",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-PN-303",
+    "brand": "Dickies",
+    "name": "Flex Work Cargo Pant",
+    "category": "bottoms",
+    "price_usd": 44.95,
+    "currency": "USD",
+    "tags": [
+      "pants",
+      "cargo",
+      "flex"
+    ],
+    "size": "34x30",
+    "color": "charcoal",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-PN-304",
+    "brand": "Wrangler RIGGS",
+    "name": "Utility Carpenter Short",
+    "category": "bottoms",
+    "price_usd": 39.99,
+    "currency": "USD",
+    "tags": [
+      "shorts",
+      "utility",
+      "construction"
+    ],
+    "size": "34",
+    "color": "tan",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-OW-401",
+    "brand": "Carhartt",
+    "name": "Rain Defender Hooded Work Jacket",
+    "category": "outerwear",
+    "price_usd": 109.99,
+    "currency": "USD",
+    "tags": [
+      "jacket",
+      "rain",
+      "water-resistant",
+      "hoodie"
+    ],
+    "size": "L",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-OW-402",
+    "brand": "Dickies",
+    "name": "Quilted Lined Eisenhower Jacket",
+    "category": "outerwear",
+    "price_usd": 74.5,
+    "currency": "USD",
+    "tags": [
+      "jacket",
+      "insulated",
+      "cold-weather"
+    ],
+    "size": "XL",
+    "color": "navy",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-OW-403",
+    "brand": "Berne",
+    "name": "Insulated Duck Work Coat",
+    "category": "outerwear",
+    "price_usd": 99.95,
+    "currency": "USD",
+    "tags": [
+      "jacket",
+      "insulated",
+      "cold-weather"
+    ],
+    "size": "L",
+    "color": "brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-OW-404",
+    "brand": "Carhartt",
+    "name": "Thermal Lined Zip Hoodie",
+    "category": "outerwear",
+    "price_usd": 89.99,
+    "currency": "USD",
+    "tags": [
+      "hoodie",
+      "insulated",
+      "work"
+    ],
+    "size": "XL",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-UN-501",
+    "brand": "Dickies",
+    "name": "Industrial Short Sleeve Work Shirt",
+    "category": "uniforms",
+    "price_usd": 31.99,
+    "currency": "USD",
+    "tags": [
+      "uniform",
+      "work-shirt",
+      "mechanic",
+      "embroiderable"
+    ],
+    "size": "L",
+    "color": "charcoal",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-UN-502",
+    "brand": "Red Kap",
+    "name": "Shop Crew Long Sleeve Shirt",
+    "category": "uniforms",
+    "price_usd": 38.5,
+    "currency": "USD",
+    "tags": [
+      "uniform",
+      "work-shirt",
+      "mechanic",
+      "embroiderable"
+    ],
+    "size": "XL",
+    "color": "navy",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-UN-503",
+    "brand": "Red Kap",
+    "name": "Utility Technician Coverall",
+    "category": "uniforms",
+    "price_usd": 65.0,
+    "currency": "USD",
+    "tags": [
+      "coverall",
+      "uniform",
+      "mechanic"
+    ],
+    "size": "42",
+    "color": "navy",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-UN-504",
+    "brand": "Dickies",
+    "name": "Workwear Polo - Custom Ready",
+    "category": "uniforms",
+    "price_usd": 27.0,
+    "currency": "USD",
+    "tags": [
+      "uniform",
+      "polo",
+      "embroiderable"
+    ],
+    "size": "L",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-GL-601",
+    "brand": "Mechanix Wear",
+    "name": "Heavy Duty Impact Work Glove",
+    "category": "accessories",
+    "price_usd": 32.99,
+    "currency": "USD",
+    "tags": [
+      "gloves",
+      "ppe",
+      "impact-protection"
+    ],
+    "size": "L",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-GL-602",
+    "brand": "Ironclad",
+    "name": "General Utility Glove",
+    "category": "accessories",
+    "price_usd": 24.95,
+    "currency": "USD",
+    "tags": [
+      "gloves",
+      "work"
+    ],
+    "size": "M",
+    "color": "grey",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-GL-603",
+    "brand": "Carhartt",
+    "name": "Waterproof Insulated Work Glove",
+    "category": "accessories",
+    "price_usd": 37.0,
+    "currency": "USD",
+    "tags": [
+      "gloves",
+      "waterproof",
+      "insulated"
+    ],
+    "size": "XL",
+    "color": "brown",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-AC-701",
+    "brand": "BareBones WorkWear",
+    "name": "Blue Collar Strong Patch Cap",
+    "category": "accessories",
+    "price_usd": 29.97,
+    "currency": "USD",
+    "tags": [
+      "hat",
+      "cap",
+      "bbww"
+    ],
+    "size": "OS",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-AC-702",
+    "brand": "BareBones WorkWear",
+    "name": "No Crack Work Tee",
+    "category": "apparel",
+    "price_usd": 29.97,
+    "currency": "USD",
+    "tags": [
+      "shirt",
+      "bbww",
+      "cotton"
+    ],
+    "size": "L",
+    "color": "black",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  },
+  {
+    "sku": "BBW-AC-703",
+    "brand": "BareBones WorkWear",
+    "name": "BBWW Gift Card $50",
+    "category": "accessories",
+    "price_usd": 50.0,
+    "currency": "USD",
+    "tags": [
+      "gift-card",
+      "digital"
+    ],
+    "size": "OS",
+    "color": "digital",
+    "is_active": true,
+    "source": "merch_pim_v2",
+    "updated_at": "2026-10-25T16:21:00-07:00"
+  }
+]

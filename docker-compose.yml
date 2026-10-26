@@ -1,0 +1,6 @@
+services:
+  gateway:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      BBWW_ENV: development
